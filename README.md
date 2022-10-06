@@ -32,3 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmeterenballi&show_icons=true&locale=en&layout=compact" alt="mehmeterenballi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmeterenballi&show_icons=true&locale=en" alt="mehmeterenballi" /></p>
+<a href="https://app.daily.dev/thefulcrum"><img src="https://api.daily.dev/devcards/4c5d028483784111a3ee9ba97a1e6d76.png?r=9aq" width="400" alt="Mehmet Eren BALLI's Dev Card"/></a>
