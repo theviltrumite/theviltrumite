@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MDVM Web App](https://mudavimiyet.org/)
 
-- 🌱 I’m currently learning **Astro with Vue.js and Turbo.js**
+- 🌱 I’m currently learning **Astro with Vue.js and Turbo**
 
 - 💬 Ask me about **React, Next, Strapi**
 
