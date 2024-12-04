@@ -9,12 +9,12 @@
 
 - 💬 Ask me about **React, Next, Strapi**
 
-- 📫 How to reach me **mehmeterenballi@gmail.com**
+- 📫 How to reach me **originalfulcrum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mehmeterenballi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mehmeterenballi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehmet-eren-ballı-2035a7167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-eren-ballı-2035a7167" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eren-ball%C4%B1-2035a7167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-eren-ballı-2035a7167" height="30" width="40" /></a>
 <a href="https://hashnode.com/@thefulcrum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@thefulcrum" height="30" width="40" /></a>
 <a href="https://medium.com/@theviltrumite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theviltrumite" height="30" width="40" /></a>
 </p>
