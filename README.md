@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Next, Strapi**
 
-- 📫 How to reach me **mehmeterenballi@gmail.com**
+- 📫 How to reach me **originalfulcrum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
